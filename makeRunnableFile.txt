@@ -1,0 +1,3 @@
+touch foo.sh
+chmod 777 foo.sh
+enjoy.
